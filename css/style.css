@@ -32,8 +32,18 @@ body{
     background-image:linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.45)), url(../images/42vZx1p.jpeg);
 }
 
-.bg-1{
-    background-image:linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.45)), url(../images/download.jpg);
+.bg-3{
+    background-image:linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.45)), url(../images/YwUORfY.jpg);
 }
+
+.hero{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: white;
+}
+
 
 
