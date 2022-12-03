@@ -1,0 +1,39 @@
+body{
+    font-size: 16px;
+    color: #222;
+    font-family: poppin, sans-serif;
+    font-weight: 400;
+    letter-spacing: 1px;
+}
+
+.container img{
+    width:50px;
+    height:50px;
+    border-radius: 100px;
+
+}
+.carousel-inner img{
+ height: auto;
+ width: 100%;
+}
+
+.bg-item{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+}
+
+.bg-2{
+    background-image:linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.45)), url(../images/4nWAvqr.jpg);
+}
+
+.bg-1{
+    background-image:linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.45)), url(../images/42vZx1p.jpeg);
+}
+
+.bg-1{
+    background-image:linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.45)), url(../images/download.jpg);
+}
+
+
